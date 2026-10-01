@@ -28,22 +28,6 @@ And answer questions on:
 - System Call vs Function Call
 - Interrupt vs System Call
 
----
-
-## 90-Minute Plan
-
-| Time | Activity |
-|------|----------|
-| 0-10 min | OS architecture and big picture |
-| 10-25 min | Kernel, User Space, and Kernel Space |
-| 25-45 min | User Mode and Kernel Mode |
-| 45-60 min | System Calls |
-| 60-70 min | Interrupts |
-| 70-80 min | Practical experiment |
-| 80-90 min | Interview questions and mini test |
-
----
-
 ## Part 1: What is an Operating System?
 
 Do not memorize this vague definition:
