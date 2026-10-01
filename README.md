@@ -4,18 +4,7 @@
 
 This document covers the fundamentals of operating systems with a focus on high-level interview preparation. The goal is to understand how an application interacts with the OS, kernel, hardware, and CPU privilege levels.
 
----
-
-## Today's Goal
-
-By the end of today, you should be able to explain:
-
-```text
-Application → System Call → Kernel → Hardware → Kernel → Application
-```
-
-And answer questions on:
-
+Todys keylearning:
 - Operating System
 - Kernel
 - User Space
@@ -705,15 +694,5 @@ OS interrupt handling
 7. B  
 8. B  
 
----
 
-## Key Takeaways
 
-- The OS acts as an intermediary between applications and hardware.
-- The kernel is the core privileged component of the OS.
-- User space and kernel space are separated for protection and isolation.
-- User mode limits application access; kernel mode allows privileged operations.
-- System calls are the controlled bridge between user programs and OS services.
-- Interrupts are hardware or software signals that require CPU attention.
-
-This is the foundation for deeper topics such as processes, scheduling, memory management, and synchronization.
